@@ -6,7 +6,7 @@ export const GlobContext = createContext();
 
 function Context({children}) {
 
-  let data = "asim"
+  let data = "";
 
   return (
     <>
